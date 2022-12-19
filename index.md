@@ -26,7 +26,7 @@ My first static map is of the density of airbnb around NYC. I normalised airbnb 
 
 ## Static Maps:
 <div style="display: flex;">
-  <img src="Median Rents in NYC (1).png" style="width: 50%; height: auto;">
+  <img src="Median Rents in NYC.png" style="width: 50%; height: auto;">
   <img src= "Arbnb Chloropleth map.png" style="width: 50%; height: auto;">
 </div>
 
