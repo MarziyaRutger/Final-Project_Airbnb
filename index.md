@@ -36,7 +36,7 @@ I also an interactive plotly map to show how airbnb is distrbuted using the pric
 
 ## AIRBNB PRICE
 
-<iframe src= "https://raw.githubusercontent.com/MarziyaRutger/Final_Project/main/map.html" height= "855" width= "95%"></iframe>
+<iframe src= "map.html" height= "855" width= "95%"></iframe>
 
 
 
@@ -48,4 +48,4 @@ I also an interactive plotly map to show how airbnb is distrbuted using the pric
 Finally, I wish to show my interactive webmap which shows 3 layers. the first is the chloropleth layer than i also created a static map. I wanted to use that in my folium so that I could show how my map looks on folium. I overlaid the map with eviction data using proportional symbols to have a better idea of the relationship between evictions and airbnb density. Finally I created a cluster map of airbnb data
 I used only manhattan because the folium kept crashing when i tried to map the point data for the whole of new york as it was too many points (more than 40,000).
 
-<iframe src= "https://raw.githubusercontent.com/MarziyaRutger/Final_Project/main/Airbnb_Data.html" height= "855" width= "95%"></iframe>
+<iframe src= "Airbnb_Data.html" height= "855" width= "95%"></iframe>
